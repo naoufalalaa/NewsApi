@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApi</string>
+    <string name="search">Search</string>
+    <string name="yyyy_mm_dd">YYYY-MM-DD</string>
+</resources>
